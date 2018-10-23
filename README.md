@@ -42,7 +42,9 @@ then  install the PBC go  lib
 `go  get  github.com/Nik-U/pbc`
 
 ## Second:Install the  bolt  lib
+
 put  in   terminal  
+
 `go  get   github.com/boltdb/bolt`
 # Useage
 ```
